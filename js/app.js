@@ -1,4 +1,4 @@
-const WHATSAPP  = "920607857";   // ← número comercial con código de país, sin espacios ni símbolos (ej: 51987654321)
+const WHATSAPP  = "+51 920607857";   // ← número comercial con código de país, sin espacios ni símbolos (ej: 51987654321)
 const INSTAGRAM = "https://www.instagram.com/equilibrio_postres";
 const TIKTOK = "https://www.tiktok.com/@equilibrio_tiramisu";
 const FACEBOOK = "https://www.facebook.com/profile.php?id=61578489465648";
